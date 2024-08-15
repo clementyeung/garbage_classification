@@ -3,6 +3,7 @@
 Garbage_classificatin is a model that uses imagenet to classify garbage. It is capable of sorting 8 classes, battery, biological, cardboard, glass, paper, plastic and trash respectively. 
 
 Here is an example output of garbage_classification:
+
 ![testtrash](https://github.com/user-attachments/assets/45111ebf-4255-4325-9ede-1e4928877585)
 
 ## The Algorithm
